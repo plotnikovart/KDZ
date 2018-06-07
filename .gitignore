@@ -1,3 +1,11 @@
+*.docx
+*.pdf
+*.xlsx
+resources/*
+results/*
+sol/.vs/*
+
+
 # Prerequisites
 *.d
 
